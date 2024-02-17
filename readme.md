@@ -1,4 +1,19 @@
-# Link Referensi Settingan Web Server
+# Catatan Dokumentasi Readme Github
+
+- <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code">Github Readme Doc</a>
+
+# Link Referensi Website
+
+## Belajar Codeigniter
+
+- <a href="https://codeigniter.com/userguide3/installation/upgrade_3112.html">Upgrade Version Codeigniter 3</a>
+- <a href="https://kurteyki.com/belajar-codeigniter-4">Codeigniter 4 Basic Tutotial</a>
+
+## Belajar Laravel
+
+- <a href="https://shouts.dev/articles/laravel-10-how-to-implement-sweet-alert">Laravel 10 Sweetalert</a>
+
+## Web Server Ubuntu
 
 <p>Sistem Operasi menggunakan Ubuntu Server 22.04 Jemmy, Berikut Ini Adalah Linknya:</p>
 <ul>
